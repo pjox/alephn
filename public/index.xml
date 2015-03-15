@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alephn</title>
-    <link>http://pjortiz.com/</link>
+    <link>http://alephn.com/</link>
     <description>Recent content on Alephn</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 17 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pjortiz.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alephn.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World!</title>
-      <link>http://pjortiz.com/2015/01/hello-world/</link>
+      <link>http://alephn.com/2015/01/hello-world/</link>
       <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pjortiz.com/2015/01/hello-world/</guid>
+      <guid>http://alephn.com/2015/01/hello-world/</guid>
       <description>&lt;p&gt;Closer to infinity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://pjortiz.com/About/</link>
+      <link>http://alephn.com/About/</link>
       <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pjortiz.com/About/</guid>
+      <guid>http://alephn.com/About/</guid>
       <description>&lt;p&gt;About infinity&lt;/p&gt;
 </description>
     </item>

@@ -2,7 +2,7 @@
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
-baseurl: "http://alephn.com/"
+baseurl: "http://pjortiz.com/"
 title: "Alephn"
 permalinks:
   post: "/:year/:month/:title/"
