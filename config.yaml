@@ -1,0 +1,15 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+baseurl: "http://pjortiz.com/"
+title: "Alephn"
+permalinks:
+  post: "/:year/:month/:title/"
+theme: hyde
+params:
+  AuthorName: "Pedro Ortiz"
+  GitHubUser: "pjox"
+  Description: "Thoughts about infinity."
+  Copyright: "Pedro Ortiz"
+---
